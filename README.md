@@ -85,11 +85,8 @@ python3 src/main.py
 ---
 
 # YouTube Video Demonstration
-YouTube video link:
+YouTube video link: https://youtu.be/VpvN-sHBWSg
 
-```plaintext
-https://youtu.be/VpvN-sHBWSg
-```
 
 ---
 
